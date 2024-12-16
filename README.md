@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lim Hong Jie</h1>
 <h3 align="center">A 2nd year Diploma in IT student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hongjie&label=Profile%20views&color=0e75b6&style=flat" alt="hongjie" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HongJie0810&label=Profile%20views&color=0e75b6&style=flat" alt="hongjie" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
