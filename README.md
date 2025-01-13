@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lim Hong Jie</h1>
-<h3 align="center">A final yer Diploma in IT student</h3>
+<h3 align="center">A final year Diploma in IT student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hongjie0810&label=Profile%20views&color=0e75b6&style=flat" alt="hongjie0810" /> </p>
 
